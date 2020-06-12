@@ -1,0 +1,56 @@
+body{
+    background-image:url(/image/di.png);
+    background-size: cover;
+    background-repeat: no-repeat;
+    height: 100vh;
+
+}
+header{
+    background-color:palevioletred;
+}
+nav{
+    text-align: right;
+}
+nav ul{
+    list-style: none;
+} 
+a:hover {
+    background-color:grey;
+  }
+
+#head{
+    text-align: center;
+    color: white;
+    font-size: xx-large;
+}
+
+nav a{
+    text-decoration: none;
+}
+
+
+nav li{
+    margin-right: 40px;
+    padding-top: 30px;
+    padding-bottom: 30px;
+    display: inline-block;
+}
+.fa {
+    padding: 20px;
+    font-size: 30px;
+    width: 50px;
+    text-align: center;
+    text-decoration: none;
+  }
+  
+  
+  .fa:hover {
+    opacity: 0.7;
+  }
+  
+  .footer{
+    color: black;
+    font-size: 40px;
+    padding-top: 33%;
+  }
+  

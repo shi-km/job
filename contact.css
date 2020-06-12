@@ -1,0 +1,77 @@
+
+header{
+        background-color:palevioletred;
+    }
+    nav{
+        text-align: right;
+    }
+    nav ul{
+        list-style: none;
+    } 
+    a:hover {
+        background-color:grey;
+      }
+    
+    
+    
+    nav a{
+        text-decoration: none;
+    }
+    .us{
+        text-decoration: underline;
+    }
+    
+    nav li{
+        margin-right: 40px;
+        padding-top: 20px;
+        padding-bottom: 30px;
+        display: inline-block;
+    }
+    *{
+        overflow-x: hidden;
+    }
+    .feedback{
+        text-align: center;
+        padding-top: 1%;
+        background-color: gray;
+        height: 82vh;
+    
+    }
+    #name{
+        /* padding-bottom: 20px; */
+        width: 40vh;
+        margin: 30px;
+        padding-left: 13px;
+        border-radius: 5%;
+        height:3.5vh;
+        /* background: transparent; */
+        
+    }
+    .form{
+    margin-left: 20px;
+    }
+    
+    .text{
+    padding-bottom: 20px;
+    color: green;
+    }
+    #msg{
+        height: 20vh;
+        width: 70vh;
+        border-radius: 5%;
+        /* background: transparent; */
+    }
+    #email{
+    width: 40vh;
+    padding-left: 5%;
+    height: 3.5vh;
+    
+    }
+    .feedback h1{
+        color:black;
+        font-size:7vh;
+        font-weight: bolder;
+    }
+    ::placeholder{
+        color:black;
+    }

@@ -1,0 +1,27 @@
+
+header{
+    background-color:palevioletred;
+}
+nav{
+    text-align: right;
+}
+nav ul{
+    list-style: none;
+} 
+a:hover {
+    background-color:grey;
+  }
+
+
+
+nav a{
+    text-decoration: none;
+}
+
+
+nav li{
+    margin-right: 40px;
+    padding-top: 30px;
+    padding-bottom: 30px;
+    display: inline-block;
+}
