@@ -1,5 +1,5 @@
 body{
-    background-image:url(/image/di.png);
+    background-image:url(./image/di.png);
     background-size: cover;
     background-repeat: no-repeat;
     height: 100vh;
