@@ -1,7 +1,7 @@
 
 header{
     background-color:palevioletred;
-    height: 10vh;
+    height:6vh;
     overflow-y: hidden;
 }
 nav{
@@ -10,6 +10,9 @@ nav{
 nav ul{
     list-style: none;
 } 
+nav li{
+
+}
 a:hover {
     background-color:grey;
   }
@@ -51,8 +54,8 @@ nav a{
   }
 nav li{
     margin-right: 40px;
-    padding-top: 30px;
-    padding-bottom: 30px;
+    padding-top: 20px;
+    padding-bottom: 20px;
     display: inline-block;
 }
 .fa {
