@@ -1,7 +1,7 @@
 
 header{
     background-color:palevioletred;
-    height:6vh;
+    /* height:6vh; */
     overflow-y: hidden;
 }
 nav{
@@ -10,9 +10,7 @@ nav{
 nav ul{
     list-style: none;
 } 
-nav li{
 
-}
 a:hover {
     background-color:grey;
   }
