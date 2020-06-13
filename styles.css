@@ -1,6 +1,8 @@
 
 header{
     background-color:palevioletred;
+    height: 10vh;
+    overflow-y: hidden;
 }
 nav{
     text-align: center;
