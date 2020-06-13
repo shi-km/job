@@ -1,10 +1,4 @@
-body{
-    background-image:url(./image/ee.jpg);
-    background-size: cover;
-    background-repeat: no-repeat;
-    height: 100vh;
 
-}
 header{
     background-color:palevioletred;
 }
@@ -16,6 +10,11 @@ nav ul{
 } 
 a:hover {
     background-color:grey;
+  }
+  
+  a{
+    
+    font-size: large;
   }
 /* 
 #head{
@@ -45,7 +44,7 @@ nav a{
   .page h1{
     text-align: center;
     color: palevioletred;
-    font-size: 70px;
+    /* font-size: 70px; */
     font-style: unset;
   }
 nav li{
@@ -64,7 +63,7 @@ nav li{
   
   
   
-  .fa:hover {
+  /* .fa:hover {
     opacity: 0.7;
   }
   
@@ -75,4 +74,4 @@ nav li{
   .page h1{
       margin-top:3%;
       color:palevioletred;
-  }
+  } */
